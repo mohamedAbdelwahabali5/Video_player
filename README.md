@@ -1,6 +1,6 @@
 # 🎬 Custom Video Player
 
-A fully customizable **typescript Video Player** with modern UI, custom themes, and flexible playback controls.
+A fully customizable **Typescript Video Player** with modern UI, custom themes, and flexible playback controls.
 
 ## 🚀 Features
 
@@ -14,11 +14,14 @@ A fully customizable **typescript Video Player** with modern UI, custom themes, 
 ```
 📁 VideoPlayer
 ├── 📄 index.html       # Main HTML file
-├── 📁 assets           # Static assets (icons, fonts, etc.)
-├── 📁 videos           # Video files
-├── 📄 styles.css       # Custom styles
-├── 📄 script.js        # Core JavaScript logic
-└── 📄 README.md        # Documentation
+├── 📁 .git             # Git repository folder
+├── 📁 .vscode          # VS Code settings
+├── 📁 dist            # Compiled output files
+├── 📁 images          # Screenshots and images
+├── 📁 src             # Source TypeScript files
+├── 📁 videos          # Video files
+├── 📄 README.md        # Documentation
+├── 📄 tsconfig.json    # TypeScript configuration
 ```
 
 ## 🛠️ Installation
@@ -74,12 +77,13 @@ theme: {
 ## 📸 Screenshots
 
 ### 🎥 Video Player UI
-![Video Player](assets/screenshots/video-player-ui.png)
+![Video Player](images/1.png)
 
-### 🎨 Custom Theme Example
-![Custom Theme](assets/screenshots/custom-theme.png)
+### 🎥 Video Player UI
+![Video Player](images/2.png)
 
-
+### 🎥 Video Player UI
+![Video Player](images/3333.png)
 
 ## 🏗️ Contributing
 
