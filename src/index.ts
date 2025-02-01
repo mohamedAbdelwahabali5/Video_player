@@ -402,7 +402,7 @@ const player1 = new VideoPlayer({
     container: 'videoContainer',
     src: './videos/EnglishMan.mp4',
     theme: {
-        color: '#ffffff',
+        color: '#00ffff',
         background: '#1e272e',
         accent: '#ff4757',
     },
